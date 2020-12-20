@@ -8,4 +8,3 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
-<a  href = "https://scan.coverity.com/projects/kadirselcuk-spoon-knife"> <img alt = " Coverity Tarama Yapı Durum " src = " https://scan.coverity.com/projects/22334 /badge.svg " /> </a>
